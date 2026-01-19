@@ -1,0 +1,48 @@
+{
+  "courses": {
+    "py109": {
+      "full_name": "PY109 Study Group",
+      "summary": "I will be hosting a study group for students in PY109 or the final lessons of PY101.\n\nIn PY101 / 109, verbal fluency is essential, and underpins your ability to read and think about code.  The best way to become fluent is to practice with your peers!  We'll practice articulating course concepts and solving small coding challenges. Study groups are a great way to gain confidence and connect with and learn from fellow students. There is no judgment here! We encourage all students to attend a session if they are able.",
+      "activity": "Practice problems that test your knowledge and fluency with fundamental programming concepts",
+      "enrollment": "PY109 or the final lessons of PY101"
+    },
+    "py119": {
+      "full_name": "PY110 / 119 Study Group",
+      "activity": "PY119 is one of the hardest assessments for many students.  This study session helps you practice problem-solving and coding under pressure, with an emphasis on clear reasoning and refining your PEDAC process.",
+      "enrollment": "PY119 or the final lessons of PY110"
+    },
+    "py129": {
+      "full_name": "PY120 / PY129 Study Group",
+      "activity": "Python OOP might seem simple and easy, until you get into the details!  We'll test the limits of your knowledge, and your ability to articulate key OOP concepts.",
+      "enrollment": "PY129 or the final lessons of PY120"
+    },
+    "py139": {
+      "full_name": "PY130 / PY139 Study Group",
+      "activity": "Many of the concepts in PY130 / PY139 may seem obscure, but they are foundational, and you will use them throughout the rest of your time at Launch School!  We'll practice solving problems and testing the limits of your knowledge.",
+      "enrollment": "PY139 or the final lessons of PY130"
+    },
+    "LS171": {
+      "full_name": "LS171 Study Group",
+      "activity": "We'll explore all aspects what happens behind-the-scenes when you visit and interact with a webpage.  We'll also cover any specific concepts that attendees are struggling with.",
+      "enrollment": "LS170 or LS171"
+    },
+    "PEDAC": {
+      "full_name": "PEDAC Study Group (ALL LANGUAGES)",
+      "summary": "I will be hosting a study group for students currently learning PEDAC in any language (in courses JS110/119, RB110/119 or PY110/119).\n\nThe study group discusses the long-term importance of PEDAC, builds mental models of what PEDAC is, and why/how it is useful. The exact content (coding problems and focus of discussion) changes to best fit the needs of the students who sign up. You may also use the study session to ask questions.\n\nWe'll assume *you have a basic understanding of PEDAC* so that we can focus on practice (instead of reviewing the basics).  If you are unfamiliar with Launch School's PEDAC process, please read [this article](https://medium.com/launch-school/solving-coding-problems-with-pedac-29141331f93f) before attending the session.",
+      "activity": "Practice and refine our PEDAC abilities",
+      "enrollment": "JS110/119, RB110/119, PY110/119"
+    }
+  },
+  "misc": {
+    "post-session-thanks": [
+        "Thanks for coming, it was great for studying with everyone!",
+        "Thanks for coming, everyone!",
+        "Great studying with you all!"
+    ],
+    "greetings": [
+        "Hi all!",
+        "Hi everyone!"
+    ],
+    "recording": "This study session will be recorded for potential use in our materials."
+  }
+}
